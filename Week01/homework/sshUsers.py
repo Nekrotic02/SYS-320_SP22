@@ -3,7 +3,7 @@ import importlib
 importlib.reload(syslogCheck)
 # SSH authentication failures 
 
-def su_open(filename, searchTerms):
+def userCheck(filename, searchTerms):
 
     # Call syslockCheck and return results
     is_found = syslogCheck._syslog(filename,searchTerms)
@@ -13,12 +13,12 @@ def su_open(filename, searchTerms):
 
     # Loop through the results 
     for eachFound in is_found:
-        print("eachFound Variable before split: ", eachFound)
-        print()
+        #print("eachFound Variable before split: ", eachFound)
+        #print()
         #split the results 
         sp_results = eachFound.split(" ")
-        print("eachFound Variable after split: ", eachFound)
-        print()
+        #print("eachFound Variable after split: ", eachFound)
+        #print()
         # Append the split value to the found list 
         found.append(sp_results[5])
 

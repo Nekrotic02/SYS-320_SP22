@@ -33,6 +33,9 @@ def _syslog(filename,listOfKeywords):
 
     # Sort the list 
     results = sorted(results)
+    
+    # Remove Duplicates 
+    results = set(results)
 
     return results  
             #print(x)
