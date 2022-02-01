@@ -1,0 +1,5 @@
+web:
+  QQ: "QQ.*bytes sent.*" 
+proxy:
+  QQ: "QQ.*open through proxy.*"
+
