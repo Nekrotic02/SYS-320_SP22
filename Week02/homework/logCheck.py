@@ -53,7 +53,7 @@ def _logs(filename,service,term):
     results = sorted(results)
     
     # Remove Duplicates 
-    results = set(results)
+    #results = set(results)
 
     return results  
             #print(x)
