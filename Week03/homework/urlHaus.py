@@ -28,8 +28,8 @@ def urlHausOpen(filename,searchTerms):
                 the_url = eachLine[2].replace("http","hxxp")
                 the_src = eachLine[4]
 
-                # Converting the int to a string for concatination
+                # Changing the + to a * to multiply string instead of concatenate 
                 print("""
                 URL:{}
                 Info: {}
-                {}""".format(the_url, the_src,"*"+str(60)))
+                {}""".format(the_url, the_src,"*"*60))
