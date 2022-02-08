@@ -1,8 +1,9 @@
-- QQ.exe tcpconn.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
-- QQProtectUpd.exe qdun-data.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070
-- QQ.exe tcpconn3.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070
-- QQ.exe tcpconn6.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
 - QQ.exe 183.60.49.182:443 open through proxy proxy.cse.cuhk.edu.hk:5070
-- QQPlayer.exe btrace.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
-- QQ.exe tcpconn6.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070
 - QQ.exe cgi.qqweb.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQ.exe tcpconn.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQ.exe tcpconn3.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQ.exe tcpconn6.tencent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQ.exe tcpconn6.tencent.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQPlayer.exe btrace.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQPlayer.exe btrace.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070
+- QQProtectUpd.exe qdun-data.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070
