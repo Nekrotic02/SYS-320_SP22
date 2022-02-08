@@ -40,5 +40,5 @@ def ur1HausOpen(filename,searchTerms):
         print("""
         URL:{}
         Info: {}
-        {}""".format(the_url, the_src,"*"+str(60)))
+        {}""".format(the_url, the_src,"*"*60))
         
