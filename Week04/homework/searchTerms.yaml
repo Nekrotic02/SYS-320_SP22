@@ -11,7 +11,7 @@ sql_attacks:
   mysql: ".*mysql"
 directory_traversal: 
   passwd: ".*/etc/passwd"
-  vertical: ".*/../..*"
+  vertical: ".*/\\.\\./\\.\\..*"
 cms_attacks: 
   joomla: ".*joomla.*"
   wordpress: ".*wordpress.*"

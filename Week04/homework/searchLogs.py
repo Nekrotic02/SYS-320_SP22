@@ -1,11 +1,10 @@
-import yaml, re, sys
+import re, sys, yaml
 
-with open('searchTerms.yaml') as yf:
-    keywords = yaml.safe_load(yf)
 
-def search_bytes(filename, service, terms):
 
-    is_found = logs(filename, service, terms)
+def search_bytes(filename, service, terms, yaml_file):
+
+    is_found = logs(filename, service, terms, yaml_file)
 
     found = []
 
@@ -19,10 +18,10 @@ def search_bytes(filename, service, terms):
 
     found = set(found)
     return found
-def search_proxy(filename, service, terms):
+def search_proxy(filename, service, terms, yaml_file):
 
     # Call syslockCheck and return results
-    is_found = logs(filename, service, terms)
+    is_found = logs(filename, service, terms, yaml_file)
 
     # found list 
     found = []
@@ -40,6 +39,7 @@ def search_proxy(filename, service, terms):
 
 def logsearch(filename,service,terms):
     
+
     # Call syslockCheck and return result 
     is_found = logs(filename, service, terms)
 
@@ -51,6 +51,9 @@ def logsearch(filename,service,terms):
     return found
 
 def logs(filename, service, terms):
+
+    with open(yaml_file) as yf:
+        keywords = yaml.safe_load(yf)
 
     terms = keywords[service][terms]
 
