@@ -1,4 +1,4 @@
-import os, argparse, searchLogs, re, sys, yaml
+import os, argparse, re, yaml
 
 parser = argparse.ArgumentParser(
 
