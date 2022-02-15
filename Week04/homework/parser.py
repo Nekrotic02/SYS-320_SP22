@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser(
 # Parameter Passing
 parser.add_argument("-d","--directory", required=True,help="Directory conatianing log files.")
 parser.add_argument("-s","--service",required=True,help="Search Service to parse files for")
-parser.add_argument("-t","--term",required=True, help="Term to search for as defined in yaml file")
+parser.add_argument("-t","--term",required=True,help="Term to search for as defined in yaml file")
 
 args = parser.parse_args()
 
@@ -52,7 +52,7 @@ for eachFile in fList:
             results.append(eachFound)
 
     # Print the file and the contents otherwise specify that there are no contents
-    
+
     print("""File:{}""".format(eachFile))
     if len(results) == 0:
         print("No Results")
