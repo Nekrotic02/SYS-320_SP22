@@ -1,0 +1,18 @@
+web:
+  QQ: "QQ.*bytes sent.*" 
+proxy:
+  QQ: "QQ.*open through proxy.*"
+shell_attacks:
+  winShell: ".*cmd.exe.*"
+  nixShell:  ".*/bin/sh.*"
+  webShell: ".*c99.php.*"
+sql_attacks: 
+  urlAttack: ".*phpmyadmin"
+  mysql: ".*mysql"
+directory_traversal: 
+  passwd: ".*/etc/passwd"
+  vertical: ".*/../..*"
+cms_attacks: 
+  joomla: ".*joomla.*"
+  wordpress: ".*wordpress.*"
+  xmlrpc: ".*xmlrpc.*"

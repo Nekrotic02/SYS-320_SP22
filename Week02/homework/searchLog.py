@@ -45,6 +45,6 @@ def search_proxy(filename, service, terms):
 
     #print(set(found))
     #print(sp_results)
-    for eachValue in set(found): 
-        print(eachValue)
+    #for eachValue in set(found): 
+        #print(eachValue)
     return found
