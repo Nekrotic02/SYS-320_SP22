@@ -1,4 +1,4 @@
-import re, sys, yaml
+import re, yaml
 
 
 

