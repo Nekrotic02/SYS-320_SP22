@@ -1,0 +1,57 @@
+Feb 26 13:01:53 stu-123-149-171-184 systemd-logind[539]: New seat seat0.
+Feb 26 13:01:53 stu-123-149-171-184 systemd-logind[539]: Watching system buttons on /dev/input/event0 (Power Button)
+Feb 26 13:01:53 stu-123-149-171-184 systemd-logind[539]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Feb 26 13:02:02 stu-123-149-171-184 systemd-logind[539]: Watching system buttons on /dev/input/event0 (Power Button)
+Feb 26 13:02:02 stu-123-149-171-184 systemd-logind[539]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Feb 26 13:02:46 stu-123-149-171-184 login[3030]: pam_unix(login:session): session opened for user nekrotic by LOGIN(uid=0)
+Feb 26 13:02:46 stu-123-149-171-184 systemd-logind[539]: New session 1 of user nekrotic.
+Feb 26 13:02:47 stu-123-149-171-184 systemd: pam_unix(systemd-user:session): session opened for user nekrotic by (uid=0)
+Feb 26 13:03:04 stu-123-149-171-184 sudo: pam_unix(sudo:auth): authentication failure; logname=nekrotic uid=1000 euid=0 tty=/dev/tty1 ruser=nekrotic rhost=  user=nekrotic
+Feb 26 13:03:10 stu-123-149-171-184 sudo: nekrotic : TTY=tty1 ; PWD=/home/nekrotic ; USER=root ; COMMAND=/usr/bin/apt update
+Feb 26 13:03:10 stu-123-149-171-184 sudo: pam_unix(sudo:session): session opened for user root by nekrotic(uid=0)
+Feb 26 13:03:12 stu-123-149-171-184 sudo: pam_unix(sudo:session): session closed for user root
+Feb 26 13:17:01 stu-123-149-171-184 CRON[3302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb 26 13:17:01 stu-123-149-171-184 CRON[3302]: pam_unix(cron:session): session closed for user root
+Feb 26 13:19:07 stu-123-149-171-184 sudo: nekrotic : TTY=tty1 ; PWD=/home/nekrotic ; USER=root ; COMMAND=/usr/bin/apt install net-tools
+Feb 26 13:19:07 stu-123-149-171-184 sudo: pam_unix(sudo:session): session opened for user root by nekrotic(uid=0)
+Feb 26 13:19:09 stu-123-149-171-184 sudo: pam_unix(sudo:session): session closed for user root
+Feb 26 13:19:31 stu-123-149-171-184 sudo: nekrotic : TTY=tty1 ; PWD=/home/nekrotic ; USER=root ; COMMAND=/bin/systemctl start ssh
+Feb 26 13:19:31 stu-123-149-171-184 sudo: pam_unix(sudo:session): session opened for user root by nekrotic(uid=0)
+Feb 26 13:19:31 stu-123-149-171-184 sudo: pam_unix(sudo:session): session closed for user root
+Feb 26 13:19:36 stu-123-149-171-184 sudo: nekrotic : TTY=tty1 ; PWD=/home/nekrotic ; USER=root ; COMMAND=/usr/bin/apt install ssh
+Feb 26 13:19:36 stu-123-149-171-184 sudo: pam_unix(sudo:session): session opened for user root by nekrotic(uid=0)
+Feb 26 13:19:41 stu-123-149-171-184 useradd[4796]: new user: name=sshd, UID=106, GID=65534, home=/run/sshd, shell=/usr/sbin/nologin
+Feb 26 13:19:41 stu-123-149-171-184 usermod[4802]: change user 'sshd' password
+Feb 26 13:19:41 stu-123-149-171-184 chage[4807]: changed password expiry for sshd
+Feb 26 13:19:41 stu-123-149-171-184 sshd[4875]: Server listening on 0.0.0.0 port 22.
+Feb 26 13:19:41 stu-123-149-171-184 sshd[4875]: Server listening on :: port 22.
+Feb 26 13:19:41 stu-123-149-171-184 sudo: pam_unix(sudo:session): session closed for user root
+Feb 26 13:19:52 stu-123-149-171-184 sudo: nekrotic : TTY=tty1 ; PWD=/home/nekrotic ; USER=root ; COMMAND=/bin/systemctl start ssh
+Feb 26 13:19:52 stu-123-149-171-184 sudo: pam_unix(sudo:session): session opened for user root by nekrotic(uid=0)
+Feb 26 13:19:52 stu-123-149-171-184 sudo: pam_unix(sudo:session): session closed for user root
+Feb 26 13:20:14 stu-123-149-171-184 sshd[4920]: Accepted password for nekrotic from 184.171.149.210 port 59356 ssh2
+Feb 26 13:20:14 stu-123-149-171-184 sshd[4920]: pam_unix(sshd:session): session opened for user nekrotic by (uid=0)
+Feb 26 13:20:14 stu-123-149-171-184 systemd-logind[539]: New session 4 of user nekrotic.
+Feb 26 13:39:03 stu-123-149-171-184 sshd[4920]: pam_unix(sshd:session): session closed for user nekrotic
+Feb 26 13:39:03 stu-123-149-171-184 systemd-logind[539]: Removed session 4.
+Feb 26 13:43:07 stu-123-149-171-184 sshd[4962]: Accepted password for nekrotic from 184.171.149.210 port 62207 ssh2
+Feb 26 13:43:07 stu-123-149-171-184 sshd[4962]: pam_unix(sshd:session): session opened for user nekrotic by (uid=0)
+Feb 26 13:43:07 stu-123-149-171-184 systemd-logind[539]: New session 5 of user nekrotic.
+Feb 26 13:47:21 stu-123-149-171-184 sshd[4999]: Accepted password for nekrotic from 184.171.149.210 port 62251 ssh2
+Feb 26 13:47:21 stu-123-149-171-184 sshd[4999]: pam_unix(sshd:session): session opened for user nekrotic by (uid=0)
+Feb 26 13:47:21 stu-123-149-171-184 systemd-logind[539]: New session 6 of user nekrotic.
+Feb 26 13:50:14 stu-123-149-171-184 sshd[4999]: pam_unix(sshd:session): session closed for user nekrotic
+Feb 26 13:50:14 stu-123-149-171-184 systemd-logind[539]: Removed session 6.
+Feb 26 13:51:42 stu-123-149-171-184 sshd[5028]: Accepted password for nekrotic from 184.171.149.210 port 62340 ssh2
+Feb 26 13:51:42 stu-123-149-171-184 sshd[5028]: pam_unix(sshd:session): session opened for user nekrotic by (uid=0)
+Feb 26 13:51:42 stu-123-149-171-184 systemd-logind[539]: New session 7 of user nekrotic.
+Feb 26 14:03:45 stu-123-149-171-184 sshd[5060]: Accepted password for nekrotic from 184.171.149.210 port 51986 ssh2
+Feb 26 14:03:45 stu-123-149-171-184 sshd[5060]: pam_unix(sshd:session): session opened for user nekrotic by (uid=0)
+Feb 26 14:03:45 stu-123-149-171-184 systemd-logind[539]: New session 8 of user nekrotic.
+Feb 26 14:03:46 stu-123-149-171-184 sshd[5060]: pam_unix(sshd:session): session closed for user nekrotic
+Feb 26 14:03:46 stu-123-149-171-184 systemd-logind[539]: Removed session 8.
+Feb 26 14:04:10 stu-123-149-171-184 sshd[5093]: Accepted password for nekrotic from 184.171.149.210 port 51989 ssh2
+Feb 26 14:04:10 stu-123-149-171-184 sshd[5093]: pam_unix(sshd:session): session opened for user nekrotic by (uid=0)
+Feb 26 14:04:10 stu-123-149-171-184 systemd-logind[539]: New session 9 of user nekrotic.
+Feb 26 14:04:12 stu-123-149-171-184 sshd[5093]: pam_unix(sshd:session): session closed for user nekrotic
+Feb 26 14:04:12 stu-123-149-171-184 systemd-logind[539]: Removed session 9.
