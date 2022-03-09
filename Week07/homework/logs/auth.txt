@@ -1,0 +1,20 @@
+Mar  7 00:42:48 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/p.dalton
+Mar  7 00:44:44 sys320 sudo: reed.simon : TTY=unknown ; PWD=/home/reed.simon ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/p.dalton
+Mar  8 19:59:07 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/home/christopher.mchugh/test
+Mar  8 20:00:35 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk /home/christopher.mchugh/test
+Mar  8 20:04:17 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk /home/christopher.mchugh/test
+Mar  8 20:07:33 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk /home/christopher.mchugh/test
+Mar  8 20:11:19 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/.d.log /home/christopher.mchugh/log
+Mar  8 20:12:34 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/.d.log /home/christopher.mchugh/log
+Mar  8 22:37:11 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/
+Mar  8 22:37:41 sys320 sudo: christopher.mchugh : TTY=unknown ; PWD=/home/christopher.mchugh ; USER=root ; COMMAND=/usr/local/bin/ls -la /home/p.dalton
+Mar  9 00:16:32 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:17:17 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:17:53 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:18:05 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/local/bin/ls /home/p.dalton/test-lk
+Mar  9 00:45:31 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/mv /home/p.dalton/test-lk/ .
+Mar  9 00:47:52 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/mv /home/p.dalton/test-lk/ .
+Mar  9 01:29:47 sys320 sudo: samuel.barrows : TTY=unknown ; PWD=/home/samuel.barrows ; USER=root ; COMMAND=/usr/bin/mv test-lk /home/p.dalton/test-lk
+Mar  9 03:19:52 sys320 sudo: john.tiseo : TTY=pts/0 ; PWD=/home/p.dalton ; USER=root ; COMMAND=/usr/local/bin/ls
+Mar  9 03:19:55 sys320 sudo: john.tiseo : TTY=pts/0 ; PWD=/home/p.dalton ; USER=root ; COMMAND=/usr/local/bin/ls
+Mar  9 03:48:02 sys320 sudo: ciaran.byrne : TTY=pts/0 ; PWD=/home/ciaran.byrne ; USER=root ; COMMAND=/usr/bin/cp /home/p.dalton/test-lk/d.pid ./
