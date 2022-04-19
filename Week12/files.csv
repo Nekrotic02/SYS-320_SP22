@@ -1,0 +1,366 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Audits\Commercial_audit_checklist_tool.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Audits","Commercial_audit_checklist_tool.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Audits\Commercial_audit_checklist_tool.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Commercial_audit_checklist_tool","System.Collections.Generic.List`1[System.String]",,"Commercial_audit_checklist_tool.xlsx","221129","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Audits","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Audits","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Audits\Commercial_audit_checklist_tool.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","14/07/2016 09:54:45","14/07/2016 13:54:45","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","DoD_Master_Office_2010_Settings_v1.0.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DoD_Master_Office_2010_Settings_v1.0","System.Collections.Generic.List`1[System.String]",,"DoD_Master_Office_2010_Settings_v1.0.xlsx","319973","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\DoD_Master_Office_2010_Settings_v1.0.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","14/07/2016 12:02:54","14/07/2016 16:02:54","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","Microsoft Office 2010 Service Pack 1 Changes.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft Office 2010 Service Pack 1 Changes","System.Collections.Generic.List`1[System.String]",,"Microsoft Office 2010 Service Pack 1 Changes.xlsx","40225","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\Microsoft Office 2010 Service Pack 1 Changes.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","14/07/2016 12:02:26","14/07/2016 16:02:26","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","thoughtfarmer-intranet-content-migration-worksheet.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","thoughtfarmer-intranet-content-migration-worksheet","System.Collections.Generic.List`1[System.String]",,"thoughtfarmer-intranet-content-migration-worksheet.xlsx","30931","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\ChangeRequests\thoughtfarmer-intranet-content-migration-worksheet.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","14/07/2016 12:02:35","14/07/2016 16:02:35","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\CoverLetters\the-cover-letter.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\CoverLetters","the-cover-letter.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\CoverLetters\the-cover-letter.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","the-cover-letter","System.Collections.Generic.List`1[System.String]",,"the-cover-letter.docx","22892","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\CoverLetters","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\CoverLetters","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\CoverLetters\the-cover-letter.docx",".docx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","22/01/2017 21:22:39","23/01/2017 02:22:39","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","3yr-Project-Financial-Report-Template.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","3yr-Project-Financial-Report-Template","System.Collections.Generic.List`1[System.String]",,"3yr-Project-Financial-Report-Template.xlsx","145129","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\3yr-Project-Financial-Report-Template.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","22/01/2017 20:02:24","23/01/2017 01:02:24","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","82808-Annual Report Financial Overview Template and Graphs.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","82808-Annual Report Financial Overview Template and Graphs","System.Collections.Generic.List`1[System.String]",,"82808-Annual Report Financial Overview Template and Graphs.xlsx","3079772","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\82808-Annual Report Financial Overview Template and Graphs.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","22/01/2017 20:02:41","23/01/2017 01:02:41","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","FinancialStatementFY12Q2.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","FinancialStatementFY12Q2","System.Collections.Generic.List`1[System.String]",,"FinancialStatementFY12Q2.xlsx","78249","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\FinancialStatementFY12Q2.xlsx",".xlsx","23/01/2017 13:03:10","23/01/2017 18:03:10","19/04/2022 18:31:24","19/04/2022 22:31:24","14/07/2016 12:02:21","14/07/2016 16:02:21","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","GPAF IMP 067 Annual Financial Report 300414.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","GPAF IMP 067 Annual Financial Report 300414","System.Collections.Generic.List`1[System.String]",,"GPAF IMP 067 Annual Financial Report 300414.xlsx","184360","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\GPAF IMP 067 Annual Financial Report 300414.xlsx",".xlsx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","22/01/2017 20:03:25","23/01/2017 01:03:25","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","SBR FY 2016 Annual Report Template 7-21-16 Final","System.Collections.Generic.List`1[System.String]",,"SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx","47716","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\FinancialStatements\SBR FY 2016 Annual Report Template 7-21-16 Final.xlsx",".xlsx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","22/01/2017 20:02:22","23/01/2017 01:02:22","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\2010AdoptedScienceStandards.pdf","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","2010AdoptedScienceStandards.pdf","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\2010AdoptedScienceStandards.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","2010AdoptedScienceStandards","System.Collections.Generic.List`1[System.String]",,"2010AdoptedScienceStandards.pdf","528847","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\2010AdoptedScienceStandards.pdf",".pdf","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 09:53:04","14/07/2016 13:53:04","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\cle-other-science.pdf","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","cle-other-science.pdf","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\cle-other-science.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","cle-other-science","System.Collections.Generic.List`1[System.String]",,"cle-other-science.pdf","491735","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\cle-other-science.pdf",".pdf","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 09:52:44","14/07/2016 13:52:44","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","K-12_Science_Performance_Expectations_v5_496901_7.pdf","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","K-12_Science_Performance_Expectations_v5_496901_7","System.Collections.Generic.List`1[System.String]",,"K-12_Science_Performance_Expectations_v5_496901_7.pdf","1017137","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\K-12_Science_Performance_Expectations_v5_496901_7.pdf",".pdf","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 09:52:53","14/07/2016 13:52:53","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\nssmic15.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","nssmic15.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\nssmic15.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","nssmic15","System.Collections.Generic.List`1[System.String]",,"nssmic15.docx","71009","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\nssmic15.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:02:03","14/07/2016 16:02:03","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014","System.Collections.Generic.List`1[System.String]",,"South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf","1167470","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\South_Carolina_Academic_Standards_and_Performance_Indicators_for_Science_2014.pdf",".pdf","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 10:46:10","14/07/2016 14:46:10","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\stds_scienceKinder.pdf","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","stds_scienceKinder.pdf","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\stds_scienceKinder.pdf
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","stds_scienceKinder","System.Collections.Generic.List`1[System.String]",,"stds_scienceKinder.pdf","61430","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Sciences\stds_scienceKinder.pdf",".pdf","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 09:49:37","14/07/2016 13:49:37","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\APA-Citation-Work-Cited1.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","APA-Citation-Work-Cited1.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\APA-Citation-Work-Cited1.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","APA-Citation-Work-Cited1","System.Collections.Generic.List`1[System.String]",,"APA-Citation-Work-Cited1.docx","49920","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\APA-Citation-Work-Cited1.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:01:45","14/07/2016 16:01:45","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Index_Table_Contents.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","Index_Table_Contents.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Index_Table_Contents.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Index_Table_Contents","System.Collections.Generic.List`1[System.String]",,"Index_Table_Contents.xlsx","60765","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Index_Table_Contents.xlsx",".xlsx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 10:47:04","14/07/2016 14:47:04","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","Microsoft-Word-Trifold-Brochure-Template.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Microsoft-Word-Trifold-Brochure-Template","System.Collections.Generic.List`1[System.String]",,"Microsoft-Word-Trifold-Brochure-Template.docx","79583","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Microsoft-Word-Trifold-Brochure-Template.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:01:47","14/07/2016 16:01:47","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\NYCProject-RACI_v2.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","NYCProject-RACI_v2.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\NYCProject-RACI_v2.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","NYCProject-RACI_v2","System.Collections.Generic.List`1[System.String]",,"NYCProject-RACI_v2.xlsx","37554","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\NYCProject-RACI_v2.xlsx",".xlsx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:02:40","14/07/2016 16:02:40","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\rgo_template.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","rgo_template.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\rgo_template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","rgo_template","System.Collections.Generic.List`1[System.String]",,"rgo_template.docx","8362477","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\rgo_template.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:01:39","14/07/2016 16:01:39","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Template File_MLA Template.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","Template File_MLA Template.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Template File_MLA Template.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Template File_MLA Template","System.Collections.Generic.List`1[System.String]",,"Template File_MLA Template.docx","20574","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Template File_MLA Template.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:00:58","14/07/2016 16:00:58","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\template-instructions1.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","template-instructions1.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\template-instructions1.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","template-instructions1","System.Collections.Generic.List`1[System.String]",,"template-instructions1.docx","1278477","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\template-instructions1.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:01:25","14/07/2016 16:01:25","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\trans_jour.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","trans_jour.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\trans_jour.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","trans_jour","System.Collections.Generic.List`1[System.String]",,"trans_jour.docx","519344","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\trans_jour.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 12:01:21","14/07/2016 16:01:21","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Video.docx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","Video.docx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Video.docx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Video","System.Collections.Generic.List`1[System.String]",,"Video.docx","11491","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Video.docx",".docx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 11:12:20","14/07/2016 15:12:20","Archive"
+"Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx","Microsoft.PowerShell.Core\FileSystem::D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","Windows 10 ADMX spreadsheet.xlsx","D","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Windows 10 ADMX spreadsheet","System.Collections.Generic.List`1[System.String]",,"Windows 10 ADMX spreadsheet.xlsx","659768","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates","False","True","D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\class\Documents\Templates\Windows 10 ADMX spreadsheet.xlsx",".xlsx","23/01/2017 13:03:11","23/01/2017 18:03:11","23/01/2017 13:03:11","23/01/2017 18:03:11","14/07/2016 09:54:56","14/07/2016 13:54:56","Archive"

